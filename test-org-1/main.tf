@@ -3,5 +3,5 @@ terraform {
 }
 
 output "static_message" {
-  value = "Output from test-org-1"
+  value = "Output from test-org-1 A"
 }
